@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268261476618",
+    "project_id": "gameon-fca0d",
+    "storage_bucket": "gameon-fca0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268261476618:android:5140b4b8164ea2ea6392f3",
+        "android_client_info": {
+          "package_name": "com.example.gameon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzTvE3J8e0wsGFsSX-igVQg-mTJKv13Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
